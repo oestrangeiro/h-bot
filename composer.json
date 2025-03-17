@@ -1,0 +1,15 @@
+{
+    "name": "oestrangeiro/h-bot",
+    "autoload": {
+        "psr-4": {
+            "Oestrangeiro\\HBot\\": "src/Oestrangeiro/HBot/"
+        }
+    },
+    "authors": [
+        {
+            "name": "oestrangeiro",
+            "email": "mateus12092004@gmail.com"
+        }
+    ],
+    "require": {}
+}
